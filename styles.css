@@ -274,7 +274,7 @@ footer{
     width: 430px;
     height: 400px;
     position: absolute;
-    bottom: 240px;
+    bottom: 215px;
     right: 40px;
     background-image: url(images/quip.png);
 }
@@ -289,17 +289,10 @@ footer{
 }
 .descargar{
     position: absolute;
-    bottom: 150px;
-    right: 30px;
+    bottom: 125px;
+    right: 0px;
     height: 85px;
-    width: 300px;
-}
-.descargarApple{
-    position: absolute;
-    bottom: 60px;
-    right: 30px;
-    height: 85px;
-    width: 300px;
+    width: 350px;
 }
 h1{
     text-align: center;
