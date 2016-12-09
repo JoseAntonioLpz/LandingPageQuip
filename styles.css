@@ -296,12 +296,12 @@ footer{
 }
 h1{
     text-align: center;
-    font-size:30px;
+    font-size:1.7em;
     font-family:PTsans;
     color: #009688;
 }
 h1.TituloSlider{
-    font-size:30px;
+    font-size:1.7em;
     font-family:PTsans;
     color: white;
 }
@@ -316,7 +316,7 @@ h3.contacta{
 }
 h4.TextoSlider{
     font-family: Titilium;
-    font-size:25px;
+    font-size:1.5em;
     text-align: center;
     color: white;
 }
@@ -394,5 +394,5 @@ a:hover, a:active {
     left: 120px;
     font-family:RusoOne;
     color: white;
-    font-size: 25px;
+    font-size: 1.5em;
 }
