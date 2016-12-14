@@ -22,24 +22,49 @@
     box-sizing: border-box;
 }
 html, body {
-    height: 2630px;
+    height: 100%;
     margin: 0 auto;
     background-color:#A9A9A9;
 }
 
 .content{
     width: 1200px;
-    height: 100%;
+    height: 2630px;
     margin: 0 auto;
     background-color: white;
 
+}
+
+.content_div{
+    width: 1200px;
+    height: 430px;
+    margin: 0 auto;
+    background-color: white;
+}
+.content_div_register{
+    width: 1200px;
+    height: 675px;
+    margin: 0 auto;
+    background-color: white;
+    font-family: Titilium1;
+}
+
+.register{
+    text-align: left;
+    width: 200px;
+    height: 530px;
+}
+
+.login_div{
+    width: 200px;
+    height: 200px;
+    font-family: Titilium1;
 }
 
 .inicio{
     width: 100%;
     height: 600px;
     position: relative;
-    background-color: antiquewhite;
 }
 
 header{
@@ -51,12 +76,13 @@ header{
     position: relative;
 }
 .login{
-    width: 50px;
+    width: 200px;
     height: 30px;
     top: 0px;
     right: 55px;
     position: absolute;
     font-family: RusoOne;
+    text-align: right;
 }
 
 .logo{
@@ -305,6 +331,11 @@ h1.TituloSlider{
     font-family:PTsans;
     color: white;
 }
+h2{
+    font-family:PTsans;
+    color:#009688;
+}
+
 /*h3{
     text-align: center;
     font-family: PTsans;

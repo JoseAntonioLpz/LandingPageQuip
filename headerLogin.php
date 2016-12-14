@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="content">
+    <div class="content_div">
         <section class="inicio">
             <header>
                 <div class="logo"></div>
@@ -33,14 +33,14 @@
 					?>
                 </div>
                 <nav>
-                    <a href="#inicio" onmouseout="this.style.opacity=1;this.filters.alpha.opacity='100';" 
+                    <a href="index.php#inicio" onmouseout="this.style.opacity=1;this.filters.alpha.opacity='100';" 
                          onmouseover="this.style.opacity=0.6;this.filters.alpha.opacity='20';">Inicio
                          </a>
-                    <a href="#quip" onmouseout="this.style.opacity=1;this.filters.alpha.opacity='100';" 
+                    <a href="index.php#quip" onmouseout="this.style.opacity=1;this.filters.alpha.opacity='100';" 
                          onmouseover="this.style.opacity=0.6;this.filters.alpha.opacity='20';">&nbspQuip</a>
-                    <a href="#productos" onmouseout="this.style.opacity=1;this.filters.alpha.opacity='100';" 
+                    <a href="index.php#productos" onmouseout="this.style.opacity=1;this.filters.alpha.opacity='100';" 
                          onmouseover="this.style.opacity=0.6;this.filters.alpha.opacity='20';">&nbspProductos</a>
-                    <a href="#equipo" onmouseout="this.style.opacity=1;this.filters.alpha.opacity='100';" 
+                    <a href="index.php#equipo" onmouseout="this.style.opacity=1;this.filters.alpha.opacity='100';" 
                          onmouseover="this.style.opacity=0.6;this.filters.alpha.opacity='20';">&nbspEquipo</a>
                     
                 </nav>

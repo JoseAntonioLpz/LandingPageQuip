@@ -13,12 +13,12 @@
                 LINE es una nueva aplicación con la que puedes llamar y</br>
                 mandar mensajes con emojis totalmente GRATIS, en cualquier</br>
                 momento y en cualquier lugar las 24 horas del día.</br></br>
-                ◆Atrévete a hablar con 200 personas.</br>
-                ◆Con Keep, todo a mano. </br>
-                ◆Llamadas de voz y videollamadas GRATIS. </br>
-                ◆Mensajes enviados y recibidos de forma instantánea.</br>
-                ◆Mejorando la comunicación </br>
-                ◆Descubre a tus personajes favoritos en la tienda de Stickers
+                -Atrévete a hablar con 200 personas.</br>
+                -Con Keep, todo a mano. </br>
+                -Llamadas de voz y videollamadas GRATIS. </br>
+                -Mensajes enviados y recibidos de forma instantánea.</br>
+                -Mejorando la comunicación </br>
+                -Descubre a tus personajes favoritos en la tienda de Stickers
             </p> 
         </div>
         <div>
@@ -50,7 +50,8 @@
                Además de eso, usted puede seguir todas las competiciones de España,</br> 
                tales como La Liga BBVA Primera Division, Segunda, Copa del Rey, Liga</br> 
                Feminina, Spagnola ACB, LEB Oro, Copa de Espana, Asobal, Division de</br> 
-               Honor, Superliga de Voleibol (SVM), Liga de Campeones, Liga Europea...</br></br>
+               Honor, Superliga de Voleibol (SVM), Liga de Campeones, Liga Europea...</br>
+               Dentro de cada partido dispone de una votacion y el pronostico</br>
             </p>
         </div>
         <div>
